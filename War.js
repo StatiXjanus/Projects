@@ -6,5 +6,8 @@ class CardDeck{
         this.size = size;
     }
 
+    setImage(image){
+        
+    }
     
 }
